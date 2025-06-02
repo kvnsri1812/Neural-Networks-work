@@ -59,6 +59,7 @@ How to Run the Code:
 
 
 **4.1 Questions to Answer**:
+
 Q1. What patterns do you observe in the training and validation accuracy curves?
    - Training accuracy increases steadily, showing that the model is learning.
    - Validation accuracy increases early, but may flatten or fluctuate after some epochs.
